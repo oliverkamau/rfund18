@@ -178,3 +178,9 @@ h3::after {
         justify-content: end;
     
     }
+   .strike {
+        text-decoration: line-through,
+      }
+    .normal {
+        text-decoration: none,
+      }
